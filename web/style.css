@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(121, 31, 31);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: blanchedalmond;
+}
+p{
+    margin: 50px auto;
+    width: 50%; 
+    color: rgb(230, 230, 230);
+    font-size: 30px;
+}
+.contenedor{
+    margin: 50px auto;
+    width: 50%;    
+}
+table{
+
+    background-color: azure;
+    text-align: left;
+    width: 100%; 
+    border-collapse: collapse;
+    font-size: 20px;
+}
+td, th{
+    
+    padding: 20px;
+}
+thead{
+    background-color: teal;
+    color: white;
+}
+tr:nth-child(even){
+    background-color: rgb(207, 207, 207);
+}
+.muestra:hover{
+    background-color: rgb(85, 185, 152);
+}
+form{
+    margin: 100px auto;
+    width: 50%;  
+    color: aliceblue;
+    font-size: 25px; 
+}
+input, textarea{
+    display: block;
+    margin-top: 20px;
+    font-size: 25px; 
+}
+
+
+
+
