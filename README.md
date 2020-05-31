@@ -43,3 +43,8 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+
+
+![Captura de pantalla (14)](https://user-images.githubusercontent.com/66080714/83359895-a86a4e00-a37d-11ea-9af0-892e29d367f7.png)
+![Captura de pantalla (15)](https://user-images.githubusercontent.com/66080714/83359897-a902e480-a37d-11ea-972c-b5686de518e0.png)
